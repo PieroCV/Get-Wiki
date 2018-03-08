@@ -1,0 +1,10 @@
+C:\Users\piaca\Desktop\Programando\C#\GetWiki\GetWiki\bin\Debug\GetWiki.exe.config
+C:\Users\piaca\Desktop\Programando\C#\GetWiki\GetWiki\bin\Debug\GetWiki.exe
+C:\Users\piaca\Desktop\Programando\C#\GetWiki\GetWiki\bin\Debug\GetWiki.pdb
+C:\Users\piaca\Desktop\Programando\C#\GetWiki\GetWiki\obj\Debug\GetWiki.csprojResolveAssemblyReference.cache
+C:\Users\piaca\Desktop\Programando\C#\GetWiki\GetWiki\obj\Debug\GetWiki.Form1.resources
+C:\Users\piaca\Desktop\Programando\C#\GetWiki\GetWiki\obj\Debug\GetWiki.Properties.Resources.resources
+C:\Users\piaca\Desktop\Programando\C#\GetWiki\GetWiki\obj\Debug\GetWiki.csproj.GenerateResource.Cache
+C:\Users\piaca\Desktop\Programando\C#\GetWiki\GetWiki\obj\Debug\GetWiki.csproj.CoreCompileInputs.cache
+C:\Users\piaca\Desktop\Programando\C#\GetWiki\GetWiki\obj\Debug\GetWiki.exe
+C:\Users\piaca\Desktop\Programando\C#\GetWiki\GetWiki\obj\Debug\GetWiki.pdb
